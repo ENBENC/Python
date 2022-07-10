@@ -1,2 +1,2 @@
 # Python
-This repository contains python code project
+This repository contains python code project.
