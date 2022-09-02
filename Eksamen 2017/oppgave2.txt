@@ -1,0 +1,4 @@
+oppgave2
+a) 2 tall blir sendt inn i parameter, mens funksjonen ta bare i mot et tall.
+b) funksjonene return perint(100), funksjonen returner ikke et tall, dermed kan vi ikke skrive tall = antall*pris, siden pris ikke er et tall.
+der pris er en "Nonetype"
